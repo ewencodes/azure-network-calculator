@@ -1,4 +1,4 @@
-import { Flex, Heading, Link, Table, Tbody, Td, Text, Th, Thead, Tr } from '@chakra-ui/react'
+import { Flex, Heading, Link, Table, Tbody, Td, Text, Tr } from '@chakra-ui/react'
 import React, { useMemo } from 'react'
 
 interface NetworkInformationsProps {
